@@ -7,7 +7,7 @@ package pc_test
 import (
 	"testing"
 
-	"github.com/wmnsk/go-m3ua/pc"
+	"github.com/yasinelabe/go-m3ua/pc"
 )
 
 // TODO: coverage...

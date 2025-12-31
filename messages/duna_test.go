@@ -7,7 +7,7 @@ package messages
 import (
 	"testing"
 
-	"github.com/wmnsk/go-m3ua/messages/params"
+	"github.com/yasinelabe/go-m3ua/messages/params"
 )
 
 func TestDestinationUnavailable(t *testing.T) {

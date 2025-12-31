@@ -11,7 +11,7 @@ import (
 	"time"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/wmnsk/go-m3ua/messages/params"
+	"github.com/yasinelabe/go-m3ua/messages/params"
 
 	"github.com/ishidawataru/sctp"
 )
